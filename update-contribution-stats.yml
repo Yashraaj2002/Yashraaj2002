@@ -1,0 +1,38 @@
+name: Update Contribution Stats
+
+on:
+  schedule:
+    # This will run every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # Allow manual trigger of the workflow if needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - name: Get number of contributions
+      id: contributions
+      run: |
+        # Fetch total commits from the default branch (usually 'main' or 'master')
+        commit_count=$(git rev-list --count HEAD)
+        echo "::set-output name=commit_count::$commit_count"
+
+    - name: Update README.md with contribution count
+      run: |
+        # Create a temporary file with the updated content for README.md
+        echo "Updating README.md with contribution stats..."
+        
+        # The line below adds the contribution count to your README.md file
+        echo "### Contribution Stats" >> README.md
+        echo "Total Contributions: ${{ steps.contributions.outputs.commit_count }}" >> README.md
+        
+        # Commit and push the updated README.md
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update contribution count in README"
+        git push
