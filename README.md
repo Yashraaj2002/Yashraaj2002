@@ -30,7 +30,7 @@ I'm Yash Raj, an aspiring Data & Business Analyst with a strong passion for unco
 - 🔍 I have hands-on experience in MySQL, PostgreSQL, Power BI, and Advanced Excel.<br>
 - 📚 I'm currently learning Python and AWS to expand my capabilities in analytics and cloud-based data solutions.<br>
 - 📈 I understand data wrangling, dashboarding, and business impact analysis.<br>
-- ⚡ In my free time, I dive into automotive tech — I'm hugely in love with cars and bikes!
+- 🚗 My love language is horsepower — cars and bikes are my obsession.
 </p>
 
 ###
