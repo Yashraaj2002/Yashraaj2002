@@ -26,7 +26,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm Yash Raj, an aspiring Data & Business Analyst with a strong passion for uncovering insights from data and driving strategic decisions.<br><br>
+I'm Yash Raj, A Research Analyst with a strong passion for uncovering insights from data and driving strategic decisions.<br><br>
 - 🔍 I have hands-on experience in MySQL, PostgreSQL, Power BI, and Advanced Excel.<br>
 - 📚 I'm currently learning Python and AWS to expand my capabilities in analytics and cloud-based data solutions.<br>
 - 📈 I understand data wrangling, dashboarding, and business impact analysis.<br>
