@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-140-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributions-141-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Started-2025-orange?style=flat-square" />
 </div>
 
@@ -61,4 +61,4 @@ I'm Yash Raj, A Research Analyst with a strong passion for uncovering insights f
 
 - **Business Analysis Fundamentals**
 
-- **Business Analysis Modelling Skills and Techniques**
+- **Agile Funadamentals Scrum & Kanban**
