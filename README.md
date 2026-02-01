@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-154-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributions-155-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Started-2025-orange?style=flat-square" />
 </div>
 
@@ -26,9 +26,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm Yash Raj, A Research Analyst with a strong passion for uncovering insights from data and driving strategic decisions.<br><br>
+I'm Yash, A Revenue Analyst working for a US based Client, I have a strong passion for uncovering insights from data and driving strategic decisions.<br><br>
 - 🔍 I have hands-on experience in MySQL, PostgreSQL, Power BI, and Advanced Excel.<br>
-- 📚 I'm currently learning Python and AWS to expand my capabilities in analytics and cloud-based data solutions.<br>
 - 📈 I understand data wrangling, dashboarding, and business impact analysis.<br>
 - 🚗 My love language is horsepower — cars and bikes are my obsession.
 </p>
